@@ -1,0 +1,2 @@
+# QuickFix
+Quickfix Files
